@@ -6,8 +6,7 @@ I'm a **software developer** from France, with a focus on **Apple development** 
 
 ### 💼 What I do:
 - **Apple platform development** (iOS, macOS)
-- **System programming** with a strong interest in **system programming**
-- Tech support and development as a **computer tech**
+- 
 
 ### 🛠 Technologies & Tools I Use:
 - **Languages:** Swift, C, C++, Zsh
