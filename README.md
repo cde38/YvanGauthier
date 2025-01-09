@@ -10,13 +10,13 @@ I'm a **software developer** from France, with a focus on **Apple development** 
 - Tech support and development as a **computer tech**
 
 ### 🛠 Technologies & Tools I Use:
-- **Languages:** Swift, C, C++, Bash, Zsh
-- **Platforms:** macOS, iOS, Linux
-- **Tools:** Xcode, Git, Vim, Terminal, Instrument
+- **Languages:** Swift, C, C++, Zsh
+- **Platforms:** macOS, iOS, iPad
+- **Tools:** Xcode, Git, Instrument, Swift Package Manager 
 
 ### 🔍 Currently exploring:
-- Learning more about the **Apple ecosystem** and **system programming**
-- Testing out **Linux Kernel development**
+- Learning more about the **Apple ecosystem**
+- More specificly **iOS and MacOS app developement**
 
 ### 📈 Goals:
 - Master **native development** on Apple platforms
@@ -25,6 +25,9 @@ I'm a **software developer** from France, with a focus on **Apple development** 
 
 ### 📫 How to reach me:
 - GitHub:
-- Mastodon
+- X:
+- Mastodon:
+- LinkedIn:
+- Apple Developer Forums:
 
 Thanks for stopping by! 😊
