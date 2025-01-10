@@ -17,7 +17,7 @@ I'm a **software developer** from France, with a focus on **Apple development** 
 - More specificaly **iOS and MacOS app developement** for now
 
 ### 📈 Goals:
-- Master **native development** on Apple platforms
+- Master **Native Development** on Apple platforms
 - Collaborate with others to build meaningful tech solutions
 
 ### 📫 How to reach me:
