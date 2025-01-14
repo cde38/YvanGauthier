@@ -22,9 +22,7 @@ I'm a **software developer** from France, with a focus on **Apple development** 
 
 ### 📫 How to reach me:
 - GitHub:
-- X:
-- Mastodon:
+- Mastodon: @yvndev
 - LinkedIn:
-- Apple Developer Forums:
 
 Thanks for stopping by! 😊
