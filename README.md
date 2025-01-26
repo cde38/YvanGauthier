@@ -1,4 +1,4 @@
-# Hi, I’m @YvnGauthDev 🤓
+# Hi, I’m Yvan 🤓
 
 ### Passionate about tech, math, and programming. Let's build something cool!
 
