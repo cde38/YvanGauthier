@@ -4,13 +4,17 @@
 
 I'm a **software developer** from France, with a focus on **Apple development** (iOS/macOS) and system programming. I love using **native tools** and currently work with **Swift, C, and C++**. My goal is to help people through technology, and I'm particularly passionate about the intersection of **software engineering** and **mathematics**.
 
-### 💼 What I do:
+# 💼 What I do:
 - **Native Apple platform development** (iOS, macOS). 
   
-### 🛠 Technologies & Tools I Use:
-- **Languages:** Swift, C, C++, zsh
-- **Platforms:** macOS, iOS, iPad
-- **Tools:** Xcode, Git, Instrument, Swift Package Manager 
+# 🛠 Technologies & Tools I Use:
+### **Framework & Library** 
+### **Languages**
+- Swift, C, C++, zsh
+### **Platforms:**
+  macOS, iOS, iPad
+## **Tools**
+- Xcode, Git, Instrument, Swift Package Manager 
 
 ### 🔍 Currently exploring:
 - Learning more about the **Apple ecosystem**
