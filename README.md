@@ -9,8 +9,7 @@ I'm a **software developer** from France, with a focus on **Apple development** 
   
 # 🛠 Technologies & Tools I Use:
 ### **Framework & Library** 
-### **Languages**
-- Swift, C, C++, zsh
+-**Languages**: Swift, C, C++, zsh
 ### **Platforms:**
   macOS, iOS, iPad
 ## **Tools**
